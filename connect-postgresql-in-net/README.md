@@ -1,4 +1,4 @@
-# How to connect to PostgreSQL and MariaDB in .NET with C#
+# How to connect to PostgreSQL in .NET with C#
 
 Based on [https://www.devart.com/dotconnect/postgresql/connect-postgresql-in-net.html](https://www.devart.com/dotconnect/postgresql/connect-postgresql-in-net.html)
 

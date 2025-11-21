@@ -1,8 +1,8 @@
-![Nuget Version](https://img.shields.io/nuget/v/Devart.Data.PostgreSql?color=informational&label=latest)![Installation Count](https://img.shields.io/nuget/dt/Devart.Data.PostgreSql?color=informational&label=installs&logo=nuget)
+[![Nuget Version](https://img.shields.io/nuget/v/Devart.Data.PostgreSql?color=informational&label=latest)](https://www.nuget.org/packages/Devart.Data.PostgreSql) [![Installation Count](https://img.shields.io/nuget/dt/Devart.Data.PostgreSql?color=informational&label=Devart.Data.PostgreSQL&logo=nuget)](https://www.nuget.org/packages/Devart.Data.PostgreSql) [![Installation Count](https://img.shields.io/nuget/dt/Devart.Data.PostgreSql.EFCore?color=informational&label=Devart.Data.PostgreSQL.EFCore&logo=nuget)](https://www.nuget.org/packages/Devart.Data.PostgreSql.EFCore)
 
 ## .NET Connector for PostgreSQL With ORM Support
 
-[![dotConnect](https://github.com/devart-connectivity/.github/blob/main/assets/dotconnect_postgresql_cover_green.png)](hhttps://www.devart.com/dotconnect/postgresql/)
+[![dotConnect](https://github.com/devart-connectivity/.github/blob/main/assets/dotconnect_postgresql_cover_green.png)](https://www.devart.com/dotconnect/postgresql/)
 
 [Get Started](https://www.devart.com/dotconnect/postgresql/getting-started.html) | [Explore Features](https://www.devart.com/dotconnect/postgresql/features.html) | [Documentation](https://docs.devart.com/dotconnect/postgresql/GettingStarted.html)
 
